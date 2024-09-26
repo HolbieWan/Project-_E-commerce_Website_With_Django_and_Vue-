@@ -39,5 +39,11 @@ In your e-commerce project:
 
 In summary, these packages collectively help you build the backend (Django), expose APIs (DRF), ensure security (CORS), manage user authentication (Djoser), handle images (Pillow), and manage payments (Stripe) for your e-commerce project.
 
+### Axios
+	• is a popular JavaScript library for making HTTP requests from the browser or Node.js, while 
+
+### Bulma
+	• is a modern, open-source CSS framework based on Flexbox for building responsive web interfaces.
+
 
 ![alt text](image.png)
