@@ -1,7 +1,16 @@
-To_Do List: 
+To_Do List: (pass: momopass)
 
-* Create environment
-* Install & setup (Django)
+install: 
+            django
+            vue
+            django-rest-framework
+            django-cors-headers
+            djoser
+            pillow
+            stripe
+
+* DONE - Create environment
+* DONE - Install & setup (Django)
 * Install and setup (Vue)
 * Include Font Awesome
 * Setup the base template
@@ -15,3 +24,19 @@ To_Do List:
 * Settle opp Vuex / State
 * Make it possible to add to Cart
     _
+
+
+All commmands used: 
+
+pip install django
+pip install django-rest-framework
+pip install django-cors-headers
+pip install djoser
+pip install pillow
+pip install stripe
+pip freeze > requirements.txt
+django-admin startproject djackets_django
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py createsuperuser
+python3 manage.py runserver
