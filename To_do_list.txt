@@ -1,0 +1,17 @@
+To_Do List: 
+
+* Create environment
+* Install & setup (Django)
+* Install and setup (Vue)
+* Include Font Awesome
+* Setup the base template
+* Create django app and models for products
+* Create serializer and viws for the products
+* Crete simple front page (latest products)
+* View a products:
+    _Create viewset in Django
+    _Create vue page for showing products
+    _Add link to details page
+* Settle opp Vuex / State
+* Make it possible to add to Cart
+    _
