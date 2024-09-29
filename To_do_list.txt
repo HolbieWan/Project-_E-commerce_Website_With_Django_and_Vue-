@@ -14,11 +14,11 @@ install:
 * DONE - Install and setup (Vue)
 * DONE - Include Font Awesome
 * Done - Setup the base template
-* Create django app and models for products
-* Create serializer and viws for the products
+* DONE - Create django app and models for products
+* DONE - Create serializer and views for the products
 * Crete simple front page (latest products)
 * View a products:
-    _Create viewset in Django
+    _Create view set in Django
     _Create vue page for showing products
     _Add link to details page
 * Settle opp Vuex / State
@@ -40,8 +40,9 @@ python3 manage.py makemigrations
 python3 manage.py migrate
 python3 manage.py createsuperuser
 python3 manage.py runserver
-python3 manage.py startup product
-
+python3 manage.py startapp product
+python3 manage.py makemigrations
+python3 manage.py migrate
 
 
 All commmands used (Vue):
