@@ -44,6 +44,3 @@ In summary, these packages collectively help you build the backend (Django), exp
 
 ### Bulma
 	• is a modern, open-source CSS framework based on Flexbox for building responsive web interfaces.
-
-
-![alt text](image.png)

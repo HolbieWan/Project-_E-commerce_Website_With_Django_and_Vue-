@@ -68,6 +68,5 @@ npm run serve
 npm install axios
 npm install bulma
 
-test
-
+new test
  
