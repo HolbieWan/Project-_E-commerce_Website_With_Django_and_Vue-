@@ -16,14 +16,21 @@ install:
 * Done - Setup the base template
 * DONE - Create django app and models for products
 * DONE - Create serializer and views for the products
-* Crete simple front page (latest products)
-* View a products:
+* DONE - Create simple front page (latest products)
+* DONE - View a product in details:
     _Create view set in Django
     _Create vue page for showing products
     _Add link to details page
-* Settle opp Vuex / State
+* Set up Vuex / State
 * Make it possible to add to Cart
-    _
+    DONE - Add functionality to Vuex
+    _Initialize store in app.vue
+    _Add button to product page
+    _Show a toast message
+- Make it possible to sign up
+- Make ot possible to log in
+- Create a simple my account page
+
 
 
 All commmands used (Djano): 
@@ -67,6 +74,4 @@ cd djackets_vue
 npm run serve
 npm install axios
 npm install bulma
-
-new test
  
