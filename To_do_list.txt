@@ -22,14 +22,26 @@ install:
     DONE - Create vue page for showing products
     DONE - Add link to details page
 * DONE - Set up Vuex / State
-* Make it possible to add to Cart
+* DONE - Make it possible to add to Cart
     DONE - Add functionality to Vuex
     DONE - Initialize store in app.vue
-    _Add button to product page
-    _Show a toast message
+    DONE - Add button to product page
+    DONE - Show a toast message
+-Implement a loading bar
 - Make it possible to sign up
 - Make ot possible to log in
 - Create a simple my account page
+-Implement a loading bar
+-Set document title (All pages)
+-Make it possible to view a category
+    -Convert the productto a component
+-Add search functionality
+-View Cart
+    -A cart item should be a component
+-Change contents of cart
+    -Increment/Decrement contents
+    -Remove from cart
+
 
 
 
