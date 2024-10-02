@@ -30,19 +30,18 @@ install:
     DONE - Add button to product page
     DONE - Show a toast message
 * DONE - Implement a loading bar
-- Make it possible to sign up
-- Make ot possible to log in
-- Create a simple my account page
--Implement a loading bar
--Set document title (All pages)
--Make it possible to view a category
-    -Convert the productto a component
--Add search functionality
--View Cart
+* DONE - Set document title (All pages)
+* DONE - Make it possible to view a category
+    -Convert the product to a component
+* -Add search functionality
+* -View Cart
     -A cart item should be a component
--Change contents of cart
+* -Change contents of cart
     -Increment/Decrement contents
     -Remove from cart
+* - Create a simple my account page
+* - Make ot possible to log in
+* - Make it possible to sign up
 
 
 

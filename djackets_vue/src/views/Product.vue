@@ -48,11 +48,11 @@ export default {
         async getProduct() {
             this.$store.commit('setIsLoading', true)
 
-            const category_slug = this.$route.params.category_slug
-            const product_slug = this.$route.params.product_slug
+            const category_Slug = this.$route.params.category_slug
+            const product_Slug = this.$route.params.product_slug
 
             await axios
-                .get(`/api/v1/products/${category_slug}/${product_slug}`)
+                .get(`/api/v1/products/${category_Slug}/${product_Slug}`)
                 .then(response => {
                     this.product = response.data
                     document.title = this.product.name + ' | Djackets'
