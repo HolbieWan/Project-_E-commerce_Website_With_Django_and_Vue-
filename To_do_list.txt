@@ -8,6 +8,8 @@ install:
             djoser
             pillow
             stripe
+            bulma
+            bulma-toast
 
 * DONE - Create environment
 * DONE - Install & setup (Django)
@@ -27,7 +29,7 @@ install:
     DONE - Initialize store in app.vue
     DONE - Add button to product page
     DONE - Show a toast message
--Implement a loading bar
+* DONE - Implement a loading bar
 - Make it possible to sign up
 - Make ot possible to log in
 - Create a simple my account page
@@ -86,4 +88,5 @@ cd djackets_vue
 npm run serve
 npm install axios
 npm install bulma
+npm install bulma-toast
  
