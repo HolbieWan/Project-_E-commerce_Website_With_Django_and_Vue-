@@ -12,7 +12,32 @@ __pycache__/
 .cache/
 .pytest_cache/
 
-
 # VSCode
 .vscode/
 *.code-workspace
+
+# macOS-specific
+.DS_Store
+
+# Node modules (front-end dependencies)
+node_modules
+/dist
+
+# Local environment files (for Vue.js/Django apps)
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files (for various IDEs)
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
