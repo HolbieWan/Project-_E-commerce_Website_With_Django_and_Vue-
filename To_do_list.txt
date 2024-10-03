@@ -33,9 +33,9 @@ install:
 * DONE - Set document title (All pages)
 * DONE - Make it possible to view a category
     DONE - Convert the product to a component
-* DONE -Add search functionality
-* -View Cart
-    -A cart item should be a component
+* DONE - Add search functionality
+* DONE - View Cart
+    DONE - A cart item should be a component
 * -Change contents of cart
     -Increment/Decrement contents
     -Remove from cart
