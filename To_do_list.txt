@@ -36,12 +36,24 @@ install:
 * DONE - Add search functionality
 * DONE - View Cart
     DONE - A cart item should be a component
-* -Change contents of cart
-    -Increment/Decrement contents
-    -Remove from cart
-* - Create a simple my account page
-* - Make ot possible to log in
+* DONE - Change contents of cart
+    DONE - Increment/Decrement contents
+    DONE - Remove from cart
 * - Make it possible to sign up
+* - Make ot possible to log in
+* - Create a simple my account page
+* - Proceed to checkout (Authentication)
+* - Create simple success page
+* - Show my orders on the my account page
+    - An order should be a component
+* - Deploy Django
+    - Create a server and access it
+    - Install software
+    - Create postgres database
+    - Create users and virtual environment
+    - Install packages and get project files
+    - Create separate setting files for production
+
 
 
 
